@@ -1,2 +1,2 @@
 # cNES
-NES emulator written in C.
+NES emulator written in C. (Incomplete)
